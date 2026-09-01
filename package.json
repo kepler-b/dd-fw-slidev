@@ -1,0 +1,11 @@
+{
+  "name": "dd-fw-slidev",
+  "private": true,
+  "type": "module",
+  "scripts": { "build": "slidev build", "dev": "slidev" },
+  "dependencies": {
+    "@slidev/cli": "^51.0.0",
+    "@slidev/theme-default": "^0.25.0",
+    "vue": "^3.5.13"
+  }
+}
